@@ -67,8 +67,6 @@ This repository includes files with plain SQL that can be used to recreate a dat
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
 > Add a link to your deployed project.
 
 - [Live Demo Link](Do not have a live link)
