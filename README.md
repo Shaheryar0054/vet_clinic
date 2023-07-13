@@ -39,15 +39,11 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 # 📖 [Vet_Clinic] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **[Vet_Clinic]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <summary>Database</summary>
   <ul>
@@ -58,25 +54,17 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Created-database-using-postgresql]**
 - **[created-tables]**
 - **[Added-data-inside-table]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](Do not have a live link)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -120,7 +108,6 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
 👤 **Author1**
 
@@ -133,7 +120,6 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[Add animal products table]**
 - [ ] **[Add Doctor Table]**
@@ -152,7 +138,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
 If you like this project...
 
@@ -161,7 +146,6 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank microverse
 
