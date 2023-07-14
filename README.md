@@ -39,7 +39,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 # 📖 [Vet_Clinic] <a name="about-project"></a>
 
-**[Vet_Clinic]** is a...
+**[Vet_Clinic]**
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -88,20 +88,6 @@ Install this project with:
 
 download PostgreSQL and install to your Operating system
 
-### Usage
-
-To run the project, execute the following command:
-
-
-### Run tests
-
-To run tests, run the following command:
-
-
-### Deployment
-
-You can deploy this project using:
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,11 +121,6 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## ⭐️ Show your support <a name="support"></a>
-
-
-If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
