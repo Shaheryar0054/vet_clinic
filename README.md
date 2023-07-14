@@ -39,7 +39,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 # 📖 [Vet_Clinic] <a name="about-project"></a>
 
-**[Vet_Clinic]**
+**[Vet_Clinic]** is a Database project using postgres sql to create tables that store animals, owners and species data.
 
 ## 🛠 Built With <a name="built-with"></a>
 
